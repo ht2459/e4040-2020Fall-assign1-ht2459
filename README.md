@@ -1,4 +1,4 @@
-¡¤¡¤¡¤
+```
 |   Assignment1_intro.ipynb
 |   README.md
 |   requirements.txt
